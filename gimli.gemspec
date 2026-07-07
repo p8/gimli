@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'github-markup', '~> 1.3'
   s.add_dependency 'redcarpet', '~> 3.2'
-  s.add_dependency 'RedCloth', '~> 4.2.7'
+  s.add_dependency 'RedCloth', '~> 4.2'
 
   s.add_dependency 'coderay', '~> 1.1'
   s.add_dependency 'nokogiri', '~> 1.8'
